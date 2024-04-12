@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/3d9b31f3-030a-4bac-ac09-82cb00f16c69/resourceGroups/mannion-portfolio_group/providers/Microsoft.Web/sites/mannion-portfolio",
+    "appService.deploySubpath": "."
+}
